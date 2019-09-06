@@ -4,6 +4,8 @@ var numField2 = document.getElementById("numField2");
     
 var resultField = document.getElementById("resultField");
 
+/******************calculator for percents***************** */
+
 var form = document.getElementById("xIsWhatPercentOfY");
 
 form.addEventListener("submit", function(event) {
